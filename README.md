@@ -21,7 +21,7 @@ experienced = {
   "Industry Skill"      : ["Data Structure & Algorithm", "Microservices", "RESTful API", "Agile", "OOD"]
 }
 
-# Skills that I want to acquire
+# TODO: Skills that I want to acquire
 wishlist = {
   "Programming Language": ["TypeScript", "Go", "Rust"],
   "Libraries/Frameworks": ["NumPy", "Pandas", "TensorFlow", "Next.js"],
