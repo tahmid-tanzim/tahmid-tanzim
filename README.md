@@ -27,8 +27,8 @@ wishlist = {
   "Libraries/Frameworks": ["NumPy", "Pandas", "TensorFlow", "Next.js"],
   "Databases"           : ["Redis", "MySQL"],
   "Tools"               : ["Apache Kafka", "Kubernetes", "ELK Stack"],
-  "Cloud Platforms"     : ["AWS Training & Certification"],
-  "Industry knowledge"  : ["Design large-scale systems"]
+  "Industry knowledge"  : ["Design large-scale systems"],
+  "Cloud Platforms"     : ["AWS Training & Certification"]
 }
 ```
 
