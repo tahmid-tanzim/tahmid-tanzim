@@ -18,7 +18,7 @@ experienced = {
   "Libraries/Frameworks": ["Node.js", "Express.js", "React", "Django", "Material-UI"],
   "Databases"           : ["PostgreSQL", "MongoDB"],
   "Tools"               : ["Linux", "Docker", "Git", "AWS S3"],
-  "Industry Skill"      : ["Data Structure & Algorithm", "Microservices", "RESTful API", "Agile", "OOD"]
+  "Industry knowledge"  : ["Data Structure & Algorithm", "Microservices", "RESTful API", "Agile", "OOD"]
 }
 
 # TODO: Skills that I want to acquire
@@ -28,7 +28,7 @@ wishlist = {
   "Databases"           : ["Redis", "MySQL"],
   "Tools"               : ["Apache Kafka", "Kubernetes", "ELK Stack"],
   "Cloud Platforms"     : ["AWS Training & Certification"],
-  "Industry Skill"      : ["Design large-scale systems"]
+  "Industry knowledge"  : ["Design large-scale systems"]
 }
 ```
 
