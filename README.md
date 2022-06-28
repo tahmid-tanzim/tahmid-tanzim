@@ -14,21 +14,22 @@ Here are some quick things about me:
 ```python
 # Skills that I'm good at
 experienced = {
-  "Programming Language": ["Python3", "JavaScript ES6", "SQL", "HTML5", "CSS3"],
-  "Libraries/Frameworks": ["Node.js", "Express.js", "React", "Django", "Material-UI"],
-  "Databases"           : ["PostgreSQL", "MongoDB"],
-  "Tools"               : ["Linux", "Docker", "Git", "AWS S3"],
-  "Industry knowledge"  : ["Data Structure & Algorithm", "Microservices", "RESTful API", "Agile", "OOD"]
+    "Programming Language": ["Python3", "JavaScript ES6", "SQL", "HTML5", "CSS3"],
+    "Libraries/Frameworks": ["Node.js", "Express.js", "React", "Django", "Material-UI"],
+    "Databases"           : ["PostgreSQL", "MongoDB"],
+    "Tools"               : ["Linux", "Docker", "Git", "AWS S3"],
+    "Industry knowledge"  : ["Data Structure & Algorithm", "Microservices", "RESTful API", "Agile", "OOD"]
 }
+
 
 # TODO: Skills that I want to acquire
 wishlist = {
-  "Programming Language": ["TypeScript", "Go", "GraphQL"],
-  "Libraries/Frameworks": ["NumPy", "Pandas", "TensorFlow", "Next.js"],
-  "Databases"           : ["Redis", "MySQL"],
-  "Tools"               : ["Apache Kafka", "Kubernetes", "ELK Stack"],
-  "Industry knowledge"  : ["Design large-scale systems"],
-  "Cloud Platforms"     : ["AWS Training & Certification"]
+    "Programming Language": ["TypeScript", "Go", "GraphQL"],
+    "Libraries/Frameworks": ["NumPy", "Pandas", "TensorFlow", "Next.js"],
+    "Databases"           : ["Redis", "MySQL"],
+    "Tools"               : ["Apache Kafka", "Kubernetes", "ELK Stack"],
+    "Industry knowledge"  : ["Design large-scale systems"],
+    "Cloud Platforms"     : ["AWS Training & Certification"]
 }
 
 ```
