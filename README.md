@@ -27,7 +27,7 @@ wishlist = {
   "Libraries/Frameworks": ["NumPy", "Pandas", "TensorFlow", "Next.js"],
   "Database"            : ["Redis", "MySQL"],
   "Tool"                : ["Apache Kafka", "Kubernetes"],
-  "Cloud platforms"     : ["AWS Certified Solutions Architect - Associate"]
+  "Cloud platforms"     : ["AWS Certified Solutions Architect - Associate"],
   "Industry Skill"      : ["Design large-scale systems"]
 }
 ```
