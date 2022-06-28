@@ -23,13 +23,14 @@ experienced = {
 
 # TODO: Skills that I want to acquire
 wishlist = {
-  "Programming Language": ["TypeScript", "Go", "Rust"],
+  "Programming Language": ["TypeScript", "Go", "GraphQL"],
   "Libraries/Frameworks": ["NumPy", "Pandas", "TensorFlow", "Next.js"],
   "Databases"           : ["Redis", "MySQL"],
   "Tools"               : ["Apache Kafka", "Kubernetes", "ELK Stack"],
   "Industry knowledge"  : ["Design large-scale systems"],
   "Cloud Platforms"     : ["AWS Training & Certification"]
 }
+
 ```
 
 <!-- #### Social -->
