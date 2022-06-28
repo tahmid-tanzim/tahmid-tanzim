@@ -17,13 +17,7 @@ Here are some quick things about me:
     "Libraries/Frameworks" : ["Node.js", "Express.js", "React", "Django", "Material-UI", "Pandas"],
     "Databases"            : ["PostgreSQL", "MongoDB"],
     "Tools"                : ["Linux", "Docker", "Git", "AWS"],
-    "Industry knowledge"   : [
-                                 "Agile software development",
-                                 "Data Structures and Algorithms", 
-                                 "Object-oriented design", 
-                                 "Microservices", 
-                                 "RESTful API"
-                             ]
+    "Industry knowledge"   : ["Agile", "Data Structures and Algorithms", "Object-oriented design", "Microservices", "RESTful API"]
 }
 ```
 
