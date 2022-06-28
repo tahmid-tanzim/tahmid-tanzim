@@ -16,8 +16,8 @@ Here are some quick things about me:
 experienced = {
   "Programming Language": ["Python3", "JavaScript ES6", "SQL", "HTML5", "CSS3"],
   "Libraries/Frameworks": ["Node.js", "Express.js", "React", "Django", "Material-UI"],
-  "Database"            : ["PostgreSQL", "MongoDB"],
-  "Tool"                : ["Linux", "Docker", "Git", "AWS EC2", "AWS S3"],
+  "Databases"           : ["PostgreSQL", "MongoDB"],
+  "Tools"               : ["Linux", "Docker", "Git", "AWS S3"],
   "Industry Skill"      : ["Data Structure & Algorithm", "Microservices", "RESTful API", "Agile", "OOD"]
 }
 
@@ -25,9 +25,9 @@ experienced = {
 wishlist = {
   "Programming Language": ["TypeScript", "Go", "Rust"],
   "Libraries/Frameworks": ["NumPy", "Pandas", "TensorFlow", "Next.js"],
-  "Database"            : ["Redis", "MySQL"],
-  "Tool"                : ["Apache Kafka", "Kubernetes"],
-  "Cloud platforms"     : ["AWS Certified Solutions Architect - Associate"],
+  "Databases"           : ["Redis", "MySQL"],
+  "Tools"               : ["Apache Kafka", "Kubernetes", "ELK Stack"],
+  "Cloud Platforms"     : ["AWS Training & Certification"],
   "Industry Skill"      : ["Design large-scale systems"]
 }
 ```
