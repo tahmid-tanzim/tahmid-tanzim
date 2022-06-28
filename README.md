@@ -13,11 +13,11 @@ Here are some quick things about me:
 #### Technical Proficiency
 ```python
 {
-    "Programming Languages": ["Python3", "JavaScript es6", "SQL", "Go"],
-    "Libraries/Frameworks" : ["Node.js", "Express.js", "React", "Django", "Material-UI", "Pandas"],
-    "Databases"            : ["PostgreSQL", "MongoDB"],
-    "Tools"                : ["Linux", "Docker", "Git", "AWS"],
-    "Industry knowledge"   : ["Agile", "Data Structures and Algorithms", "Object-oriented design", "Microservices", "RESTful API"]
+  "Programming Language": ["Python3", "JavaScript ES6", "SQL", "Go"],
+  "Libraries/Framework" : ["Node.js", "Express.js", "React", "Django", "Material-UI", "Pandas"],
+  "Database"            : ["PostgreSQL", "MongoDB"],
+  "Tool"                : ["Linux", "Docker", "Git", "AWS"],
+  "Industry Skill"      : ["Data Structure & Algorithm", "Object-oriented design", "Microservices", "RESTful API", "Agile"]
 }
 ```
 
