@@ -27,7 +27,14 @@ experienced = {
     'Libraries/Frameworks': ['LangChain', 'FastAPI', 'Node.js', 'Express.js', 'NumPy', 'Pandas'],
     'Databases': ['PostgreSQL', 'Amazon RedShift', 'Amazon DynamoDB'],
     'Tools': ['Docker', 'AWS', 'Git', 'Apache Kafka', 'Linux', 'Postman'],
-    'Software Engineering Knowledge'  : ['Data Structure & Algorithm', 'Microservices', '(System | API | Database) Design', 'GraphQL']
+    'Software Engineering Knowledge': [
+        'Data Structure & Algorithm', 
+        'Microservices', 
+        'System Design', 
+        'API Design', 
+        'Database Design', 
+        'GraphQL'
+    ]
 }
 
 # TODO: Skills that I want to acquire
@@ -47,7 +54,7 @@ wishlist = {
         'Named Entity Recognition (NER) model',
         'Automatic Speech Recognition (ASR) model'
     ],
-    'Libraries/Frameworks': ['PyTorch', 'TensorFlow', 'LangGraph', 'LlamaIndex'],
+    'Libraries/Frameworks': ['PyTorch/TensorFlow', 'LangGraph', 'LlamaIndex'],
     'Databases': ['Redis', 'MySQL', 'Neo4j'],
     'Tools': ['CI/CD Pipeline', 'Kubernetes', 'Terraform', 'Ansible']
 }
