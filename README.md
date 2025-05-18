@@ -15,16 +15,8 @@ Here are some quick things about me:
 ```python
 # Skills that I'm good at
 experienced = {
-    'Programming Language': [
-        'Python3', 
-        'JavaScript', 
-        'TypeScript', 
-        'SQL'
-    ],
-    'LLM': [
-        'GPT-4', 
-        'Claude 3.5 Sonnet'
-    ],
+    'Programming Language': ['Python3', 'JavaScript', 'TypeScript', 'SQL'],
+    'LLM': ['GPT-4', 'Claude 3.5 Sonnet'],
     'AI/ML Technologies': [
         'Retrieval-Augmented Generation (RAG)',
         'Vector Databases',
@@ -33,27 +25,9 @@ experienced = {
         'Prompt Engineering',
         'Chain-of-Thought (CoT) prompting'
     ],
-    'Libraries/Frameworks': [
-        'LangChain',
-        'FastAPI',
-        'Node.js',
-        'Express.js',
-        'NumPy',
-        'Pandas'
-    ],
-    'Databases': [
-        'PostgreSQL',
-        'Amazon RedShift',
-        'Amazon DynamoDB'
-    ],
-    'Tools': [
-        'Docker',
-        'AWS',
-        'Git',
-        'Apache Kafka',
-        'Linux',
-        'Postman'
-    ],
+    'Libraries/Frameworks': ['LangChain', 'FastAPI', 'Node.js', 'Express.js', 'NumPy', 'Pandas'],
+    'Databases': ['PostgreSQL', 'Amazon RedShift', 'Amazon DynamoDB'],
+    'Tools': ['Docker', 'AWS', 'Git', 'Apache Kafka', 'Linux', 'Postman'],
     'Software Engineering Knowledge'  : [
         'Data Structure & Algorithm',
         'Microservices',
@@ -68,10 +42,7 @@ experienced = {
 
 # TODO: Skills that I want to acquire
 wishlist = {
-    'Programming Language': [
-        'Go', 
-        'Rust'
-    ],
+    'Programming Language': ['Go', 'Rust'],
     'Advanced AI/ML Technologies': [
         'Fine-tuning LLMs',
         'Parameter-Efficient Fine-Tuning (PEFT)',
@@ -86,23 +57,9 @@ wishlist = {
         'Named Entity Recognition (NER) model',
         'Automatic Speech Recognition (ASR) model'
     ],
-    'Libraries/Frameworks': [
-        'PyTorch',
-        'TensorFlow',
-        'LangGraph',
-        'Llamaindex'
-    ],
-    'Databases': [
-        'Redis',
-        'MySQL',
-        'Neo4j'
-    ],
-    'Tools': [
-        'CI/CD Pipeline',
-        'Kubernetes',
-        'Terraform',
-        'Ansible'
-    ]
+    'Libraries/Frameworks': ['PyTorch', 'TensorFlow', 'LangGraph', 'LlamaIndex'],
+    'Databases': ['Redis', 'MySQL', 'Neo4j'],
+    'Tools': ['CI/CD Pipeline', 'Kubernetes', 'Terraform', 'Ansible']
 }
 ```
 
@@ -119,5 +76,3 @@ wishlist = {
 - [LinkedIn](https://www.linkedin.com/in/tahmidtanzim)
 - [HackerRank](https://www.hackerrank.com/profile/tahmid_tanzim)
 - [LeetCode](https://leetcode.com/u/tahmid-tanzim/)
-
-
