@@ -22,22 +22,12 @@ experienced = {
         'Vector Databases',
         'Semantic Search',
         'ReAct Agent',
-        'Prompt Engineering',
-        'Chain-of-Thought (CoT) prompting'
+        'Prompt Engineering'
     ],
     'Libraries/Frameworks': ['LangChain', 'FastAPI', 'Node.js', 'Express.js', 'NumPy', 'Pandas'],
     'Databases': ['PostgreSQL', 'Amazon RedShift', 'Amazon DynamoDB'],
     'Tools': ['Docker', 'AWS', 'Git', 'Apache Kafka', 'Linux', 'Postman'],
-    'Software Engineering Knowledge'  : [
-        'Data Structure & Algorithm',
-        'Microservices',
-        'System Design',
-        'API Design',
-        'Database Design',
-        'Test-Driven Development',
-        'RESTful API',
-        'GraphQL'
-    ]
+    'Software Engineering Knowledge'  : ['Data Structure & Algorithm', 'Microservices', '(System | API | Database) Design', 'GraphQL']
 }
 
 # TODO: Skills that I want to acquire
@@ -72,7 +62,7 @@ wishlist = {
   - Implements Menu Unification for centralized menu management across multiple restaurant brands
   - Reduces staff workload by handling complex order scenarios autonomously
 
-#### Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/tahmidtanzim)
-- [HackerRank](https://www.hackerrank.com/profile/tahmid_tanzim)
-- [LeetCode](https://leetcode.com/u/tahmid-tanzim/)
+#### My URLs
+- 💼 [LinkedIn](https://www.linkedin.com/in/tahmidtanzim)
+- 🏆 [HackerRank](https://www.hackerrank.com/profile/tahmid_tanzim)
+- ⚡ [LeetCode](https://leetcode.com/u/tahmid-tanzim/)
